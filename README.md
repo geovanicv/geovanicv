@@ -1,2 +1,2 @@
 
-👋 Hey! I'm a Front End developer
+👋 Hey! I'm a web developer
