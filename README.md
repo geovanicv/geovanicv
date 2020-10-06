@@ -1,7 +1,7 @@
 
 ## 👋 Hey there! 
 
-👨‍💻 My name is Geovani Cavalcante and I'm a web developer.
+👨‍💻 My name is Geovani Cavalcante and I'm a Jr Web Developer.
 
 💻 Currently learning Node, React, Typescript, Docker and Git technologies.
 
